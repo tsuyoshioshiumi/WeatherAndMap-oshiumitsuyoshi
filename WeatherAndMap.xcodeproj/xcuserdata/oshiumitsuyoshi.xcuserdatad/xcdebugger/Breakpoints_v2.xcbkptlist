@@ -18,36 +18,6 @@
             endingLineNumber = "53"
             landmarkName = "getAddressFromLocation(location:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "0258A9A6-5A27-4C00-9E4F-4CE5273CC07F - 6a80591cdd8da659"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "WeatherAndMap.LocationManager.getAddressFromLocation(location: __C.CLLocation) -&gt; ()"
-                  moduleName = "WeatherAndMap.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/oshiumitsuyoshi/swift-camp/WeatherAndMap/WeatherAndMap/Models/LocationManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "53"
-                  endingLineNumber = "53">
-               </Location>
-               <Location
-                  uuid = "0258A9A6-5A27-4C00-9E4F-4CE5273CC07F - 10eb0979c86cce6"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WeatherAndMap.LocationManager.getAddressFromLocation(location: __C.CLLocation) -&gt; ()"
-                  moduleName = "WeatherAndMap.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/oshiumitsuyoshi/swift-camp/WeatherAndMap/WeatherAndMap/Models/LocationManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "56"
-                  endingLineNumber = "56">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
